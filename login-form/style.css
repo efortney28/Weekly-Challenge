@@ -1,0 +1,32 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+div.container-fluid {
+    height: 100%;
+}
+div.form {
+    position: absolute;
+    top: 25%;
+}
+form {
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+label {
+    color: #007BFF;
+    font-weight: 500;
+}
+.create-account {
+    font-size: 10px;
+    margin: 5px;
+}
+a {
+    color: #007BFF;
+}
+a:hover {
+    text-decoration: none;
+}
